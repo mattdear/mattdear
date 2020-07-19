@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+telescope I am currently working on a command line dice game called MDG, to refresh skills learn't in my second year of university.
+seedling I'm learning how to write reports using LaTeX and how to use and administer Ubuntu having just moved from windows in June.
+
 <!--
 **mattdear/mattdear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
