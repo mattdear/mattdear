@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am currently working on a command line dice game called MDG, to refresh skills learn't in my second year of university.
+🔭 I am currently working on university units covering Machine Learning, Data Science, and Dev Ops.
 
 <!--
 **mattdear/mattdear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
