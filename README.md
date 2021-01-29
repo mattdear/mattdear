@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am currently working on university units covering Machine Learning, Data Science, and Dev Ops.
+🔭 I am currently working on my dissertation project and industrial consulting for university.
 
 <!--
 **mattdear/mattdear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
