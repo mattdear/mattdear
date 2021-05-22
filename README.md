@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am currently working on my dissertation project and industrial consulting unit for university.
+🔭 I am currently working on my dice game and looking to find a software engineering role.
 
 <!--
 **mattdear/mattdear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
